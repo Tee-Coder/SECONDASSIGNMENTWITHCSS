@@ -1,0 +1,59 @@
+[role="banner"]
+{
+    
+width: 550px;
+height: 670px;
+background: gray;
+
+margin-top:64px;
+margin-right: auto;
+margin-bottom: 64px;
+margin-left: auto;
+
+padding-top: 32px;
+padding-right: 32px;
+padding-bottom: 32px;
+padding-left: 32px;
+
+border-top: 16px solid red;
+border-right: 16px solid yellow;
+border-bottom: 16px solid green;
+border-left: 16px solid blue;
+
+}
+
+.fontdesign
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: bold;
+    color: yellow;
+    
+    
+    
+
+}
+
+#portrait
+{
+    height: 64px;
+    width: 64px;
+    position: absolute;
+    right: 350pt;
+   
+    top: 140px;
+
+}
+
+h1:hover{
+    color: tomato;
+}
+
+h1
+{
+    text-align: center;
+    position: fixed;
+    color: red;
+}
+
+
